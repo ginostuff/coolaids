@@ -1,0 +1,33 @@
+body {
+	border: 0;
+}
+
+h1 {
+	font-family: copperplate;
+	padding-block: 2px;
+	margin: 0;
+	color: tomato;
+	text-align: center;
+	font-size: 7rem;
+
+}
+
+p {
+ border-width: 2px;
+ text-align: center;
+ border-color: tomato;
+ border-style: dotted;
+}
+
+body {
+	background-color: blueviolet;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+section {
+	font-size: 2rem;
+}
